@@ -1,4 +1,6 @@
 # Android-Project
 Health Awareness Apllication
+
+The primary objective of this application is to "Keep people disease free through prevention".
 -> BMI Calculation
--> Health Tips
+-> Tips for diabetic and blood pressure patient
